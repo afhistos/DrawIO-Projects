@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T10:48:41.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" version="16.5.3" etag="IWd__LSD8orGxajG6s8w" type="github"><diagram id="wzyXho9iFSTWxLKd_3I_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-07T10:48:53.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="MI0Mx_u1vAxarKuz1iw1" version="16.5.3" type="github">
+  <diagram id="wzyXho9iFSTWxLKd_3I_" name="Page-1">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-1" value="Etudiant" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneLine=1;rounded=1;glass=0;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;labelPosition=center;verticalLabelPosition=middle;fontFamily=Comic Sans MS;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="580" height="476" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-2" value="matricule : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="26" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-3" value="prenom : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="52" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-4" value="initiale : char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="78" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-5" value="nom : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="104" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-6" value="dateNaissance : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="130" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-7" value="section : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="156" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-8" value="cycle : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="182" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-9" value="anneeEtude: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="208" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-10" value="besoinSpecifiques : booleen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="234" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-11" value="adresseDomicile : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="260" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-12" value="adresseKot [0..1] : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="286" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-13" value="estFinancable : booleen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="312" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-14" value="estEnStage : booleen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="338" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-15" value="nomPromoteur [0..1] : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="364" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-16" value="nomSociete [0..1] : String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="390" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="416" width="580" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-18" value="estEnKot() : booleen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="424" width="580" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i2GfclMV8DTDKpJVL4j_-19" value="age() : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="i2GfclMV8DTDKpJVL4j_-1">
+          <mxGeometry y="450" width="580" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
