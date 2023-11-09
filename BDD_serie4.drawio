@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T08:58:57.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="g2ShL_Q9eCu0F6eAlvSt" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T09:03:52.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yO22wbWIkyJQAb2_eN7_" version="22.1.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2163" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -252,6 +252,9 @@
         </mxCell>
         <mxCell id="Pnyand-CayAUYRg-s309-64" value="Note: Ici, l&#39;adresse serait unique.&lt;br&gt;Donc pas besoin de faire une &lt;br&gt;entité à part" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="920" y="188" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pnyand-CayAUYRg-s309-65" value="Note: Identifiants hybrides&lt;br&gt;Pour en faire un, il faut absolument que l&#39;entité concernée&lt;br&gt;soit liée à une autre entité par une relation de type || (1 et 1 seul)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-485" y="263" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
